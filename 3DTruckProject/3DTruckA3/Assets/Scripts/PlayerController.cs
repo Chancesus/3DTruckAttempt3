@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Script for 3D Driving Truck
+
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] float moveSpeed = 15f;
